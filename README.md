@@ -20,10 +20,7 @@ I am a beginner programmer, specialized in back-end programming with foundations
 </div>
 
 ## COMMUNICATIONS CHANNLES:
-![imgyoutube](YouTube_Logo_(2013-2017).svg.png)                                         
+| ![imgyoutube](YouTube_Logo_(2013-2017).svg.png) | [Youtube.com](https://www.youtube.com/channel/UC2GkcKsqGrJWxxC5O841lfA) |
+|-------------------------------------------------|--------------------------------------------------------------------------|
+| ![imggmail](1366_2000.jpg)                       | ancafp0@gmail.com                                                       |
 
-[Youtube.com](https://www.youtube.com/channel/UC2GkcKsqGrJWxxC5O841lfA) 
-
- ![imggmail](1366_2000.jpg)
-
-ancafp0@gmail.com
