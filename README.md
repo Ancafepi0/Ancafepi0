@@ -7,4 +7,5 @@ I am a beginner programmer, specialized in back-end programming with foundations
 
 ## PROGRAMING LANGUAGES:
 ### PYTHON:
+![imgpython](python.png)
 
