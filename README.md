@@ -13,7 +13,12 @@ I am a beginner programmer, specialized in back-end programming with foundations
 ### java:
 ![imgjava](Java-logo.png)
 ## TOOLS:
-![imgtool1](1_MGcLJS1ZvMFcBA94PXn16Q.png)  ![imgtool2](eclipse-logo.png)  ![imgtoo3](descarga.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="1_MGcLJS1ZvMFcBA94PXn16Q.png" alt="Imagen 1" style="width: 100px;">
+  <img src="eclipse-logo.png" alt="Imagen 2" style="width: 100px;">
+  <img src="descarga.png" alt="Imagen 3" style="width: 100px;">
+</div>
+
 ## COMMUNICATIONS CHANNLES:
 ![imgyoutube](YouTube_Logo_(2013-2017).svg.png)                                         
 
