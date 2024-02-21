@@ -6,18 +6,15 @@ I am a beginner programmer, specialized in back-end programming with foundations
 
 
 ## PROGRAMING LANGUAGES:
-### PYTHON:
+# PYTHON:
 ![imgpython](python.png) 
-### c++:
+# C++:
 ![imgc](C++logo.svg)                          ![gif1](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)
-### java:
+# JAVA:
 ![imgjava](Java-logo.png)
 ## TOOLS:
-<div style="display: flex; justify-content: space-between;">
-  <img src="1_MGcLJS1ZvMFcBA94PXn16Q.png" alt="Imagen 1" style="width: 100px;">
-  <img src="eclipse-logo.png" alt="Imagen 2" style="width: 100px;">
-  <img src="descarga.png" alt="Imagen 3" style="width: 100px;">
-</div>
+| ![imgotra](1_MGcLJS1ZvMFcBA94PXn16Q.png) | ![imgeclipse](eclipse-logo.png) | ![imgalguna](descarga.png) |
+|-------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
 
 ## COMMUNICATIONS CHANNLES:
 | ![imgyoutube](YouTube_Logo_(2013-2017).svg.png) | [Youtube.com](https://www.youtube.com/channel/UC2GkcKsqGrJWxxC5O841lfA) |
