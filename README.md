@@ -15,5 +15,8 @@ I am a beginner programmer, specialized in back-end programming with foundations
 ## TOOLS:
 ![imgtool1](1_MGcLJS1ZvMFcBA94PXn16Q.png)  ![imgtool2](eclipse-logo.png)  
 ## COMMUNICATIONS CHANNLES:
-![imgyoutube](YouTube_Logo_(2013-2017).svg.png)
+![imgyoutube](YouTube_Logo_(2013-2017).svg.png) 
+
+[Youtube.com](https://www.youtube.com/channel/UC2GkcKsqGrJWxxC5O841lfA)
+
 
