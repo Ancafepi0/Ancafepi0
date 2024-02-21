@@ -4,20 +4,23 @@
 </div>
 I am a beginner programmer, specialized in back-end programming with foundations in front-end programming. Currently, I am pursuing a university degree in software development. In this profile, you will find publicly available software that I have used to learn various programming fundamentals. You will also find projects that I have used to learn different programming languages and, in turn, projects that I have used to test my abilities. I will regularly be uploading computer-related content to the YouTube channel linked in this profile.
 
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Ancafepi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ancafp0@gmail.com) 
 
-## PROGRAMING LANGUAGES:
-# PYTHON:
-![imgpython](python.png) 
-# C++:
-![imgc](C++logo.svg)                          ![gif1](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)
-# JAVA:
-![imgjava](Java-logo.png)
-## TOOLS:
-| ![imgotra](1_MGcLJS1ZvMFcBA94PXn16Q.png) | ![imgeclipse](eclipse-logo.png) | ![imgalguna](descarga.png) |
-|-------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ancafepi0&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ancafepi0&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancafepi0&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## COMMUNICATIONS CHANNLES:
-| ![imgyoutube](YouTube_Logo_(2013-2017).svg.png) | [Youtube.com](https://www.youtube.com/channel/UC2GkcKsqGrJWxxC5O841lfA) |
-|-------------------------------------------------|--------------------------------------------------------------------------|
-| ![imggmail](1366_2000.jpg)                       | ancafp0@gmail.com                                                       |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ancafepi0&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ancafepi0&icon=6&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
