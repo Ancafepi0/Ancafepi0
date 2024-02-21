@@ -11,6 +11,5 @@ I am a beginner programmer, specialized in back-end programming with foundations
 ### c++:
 ![imgc](C++logo.svg)
 ### java:
-![imgc](Java-logo.png)
-
+![imgjava](Java-logo.png)
 
