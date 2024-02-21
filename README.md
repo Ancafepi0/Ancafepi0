@@ -7,9 +7,12 @@ I am a beginner programmer, specialized in back-end programming with foundations
 
 ## PROGRAMING LANGUAGES:
 ### PYTHON:
-![imgpython](python.png)
+![imgpython](python.png) 
 ### c++:
-![imgc](C++logo.svg)
+![imgc](C++logo.svg)                          ![gif1](https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif)
 ### java:
 ![imgjava](Java-logo.png)
+## TOOLS:
+
+
 
